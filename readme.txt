@@ -1,2 +1,2 @@
 This is a sample file.
-Created for jekins Demo.
+Created for jenkins Demo.
